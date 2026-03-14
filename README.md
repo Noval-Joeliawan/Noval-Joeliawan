@@ -1,6 +1,11 @@
 <h1 align="center">
+  <!-- Baris 1 -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=ff0000&center=true&vCenter=true&width=600&lines=Hi+There!+👋" />
+  
+  <!-- Baris 2 (muncul setelah baris 1 selesai) -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=I'm+Noval+Joeliawan" />
+  
+  <!-- Baris 3 (muncul setelah baris 2 selesai) -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Software+Engineering" />
 </h1>
 ---
