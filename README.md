@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=I'm+Noval+Joeliawan" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Software+Engineering" />
 </h1>
-
 ---
 
 ## 👨‍💻 About Me
