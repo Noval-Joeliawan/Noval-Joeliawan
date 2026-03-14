@@ -1,13 +1,17 @@
-<h1 align="center">
+<div align="center">
+
+<h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Noval+Joeliawan;Software+Engineering" />
 </h1>
 
+---
+
 ## 👨‍💻 About Me
 
-* 🎓 Student from Indonesia
-* 💻 Currently learning **Web Development**
-* 🌱 Learning **HTML, CSS, JavaScript**
-* 🎯 Goal: Become a **Professional Developer**
+🎓 Student from Indonesia  
+💻 Currently learning **`Web Development`**  
+🌱 Learning **`HTML`**, **`CSS`**, **`JavaScript`**  
+🎯 Goal: Become a **`Professional Developer`**
 
 ---
 
@@ -43,7 +47,8 @@
 
 ---
 
-## 🌐 Connect With Me
+
+## 🌐 Social Account
 
 <p>
 <a href="https://www.instagram.com/novaljoee?igsh=MXJsOWF0Z3MzZGQ5Nw==">
@@ -57,8 +62,5 @@
 <a href="https://youtube.com/@takanashi_joe?si=KlN_Rvcu5_dDO6fb">
 <img src="https://cdn.simpleicons.org/youtube/ff0000" height="40"/>
 </a>
-</p>
 
----
-
-⭐ From **Noval Joeliawan**
+</div>
