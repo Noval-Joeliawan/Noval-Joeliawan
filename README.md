@@ -8,7 +8,6 @@
   <!-- Baris 3 (muncul setelah baris 2 selesai) -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Software+Engineering" />
 </h1>
----
 
 ## 👨‍💻 About Me
 
