@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://www.uhdpaper.com/2025/11/hitori-band-playing-4k-wallpaper-3955k.html" width="800"/>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Noval+Joeliawan;Welcome+to+my+GitHub!" />
 
 ---
 
