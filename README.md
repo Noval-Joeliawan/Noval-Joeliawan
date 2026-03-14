@@ -48,7 +48,7 @@
 ---
 
 
-## 🌐 Social Account
+## 🌐 Social Accounts
 
 <p>
 <a href="https://www.instagram.com/novaljoee?igsh=MXJsOWF0Z3MzZGQ5Nw==">
