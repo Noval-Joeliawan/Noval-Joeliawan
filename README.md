@@ -1,7 +1,5 @@
-<!-- Banner Typing -->
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ5bmFmcGdhYnd3dXI5aTN3YThzMGxzZ3ZzNW8wbmJ6YnM0dWh2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GtnRJsUSV7Us4uEpQM/giphy.gif" width="400"/>
+  <img src="https://www.uhdpaper.com/2025/11/hitori-band-playing-4k-wallpaper-3955k.html" width="800"/>
 </h1>
 
 ---
