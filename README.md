@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Noval+Joeliawan;Welcome+to+my+GitHub!" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=00ff00&center=true&vCenter=true&width=600&lines=>_ Hello,+World!;>_ I'm Noval Joeliawan;>_ Learning HTML+CSS+JS" />
+</h1>
 
 ---
 
