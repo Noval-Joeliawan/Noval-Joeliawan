@@ -1,7 +1,7 @@
 <!-- Banner Typing -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ5bmFmcGdhYnd3dXI5aTN3YThzMGxzZ3ZzNW8wbmJ6YnM0dWh2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GtnRJsUSV7Us4uEpQM/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ5bmFmcGdhYnd3dXI5aTN3YThzMGxzZ3ZzNW8wbmJ6YnM0dWh2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GtnRJsUSV7Us4uEpQM/giphy.gif" width="300"/>
 </h1>
 
 ---
