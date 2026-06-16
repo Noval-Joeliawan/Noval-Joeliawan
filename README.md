@@ -41,7 +41,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noval-Joeliawan&theme=tokyonight&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noval-Joeliawan&theme=react-dark&bg_color=1a1b26&title_color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
