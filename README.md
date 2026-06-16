@@ -68,9 +68,9 @@
 <a href="https://www.tiktok.com/@novjoe_" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
-  <a href="https://youtube.com/@takanashi_joe?si=KlN_Rvcu5_dDO6fb" target="_blank">
-    <img src="https://youtube.com/@takanashi_joe?si=7gyNNxRYZf082iDQ" alt="YouTube" />
-  </a>
+<a href="https://youtube.com/@takanashi_joe" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 </p>
 
 </div>
