@@ -40,8 +40,9 @@
 
 ## 🐍 Contribution Snake
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Noval-Joeliawan/Noval-Joeliawan/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </p>
 
 ---
