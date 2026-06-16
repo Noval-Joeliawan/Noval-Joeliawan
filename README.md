@@ -8,13 +8,15 @@
 
 <p align="center">
   <a href="https://www.instagram.com/novaljoee?igsh=MXJsOWF0Z3MzZGQ5Nw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 50px;" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://www.tiktok.com/@novjoe_?_r=1&_t=ZS-94frorvouBU" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" style="border-radius: 50px;" alt="TikTok" />
   </a>
+  &nbsp;
   <a href="https://youtube.com/@takanashi_joe?si=KlN_Rvcu5_dDO6fb" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="border-radius: 50px;" alt="YouTube" />
   </a>
 </p>
 
