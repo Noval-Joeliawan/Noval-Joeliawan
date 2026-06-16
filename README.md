@@ -71,10 +71,4 @@
   </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noval-Joeliawan&color=1E90FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 </div>
