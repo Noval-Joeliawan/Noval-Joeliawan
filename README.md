@@ -65,9 +65,9 @@
   <a href="https://www.instagram.com/joeliawan_?igsh=MXJsOWF0Z3MzZGQ5Nw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@novjoe_?_r=1&_t=ZS-94frorvouBU" target="_blank">
-    <img src="https://www.tiktok.com/@novjoe_" alt="TikTok" />
-  </a>
+<a href="https://www.tiktok.com/@novjoe_" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
   <a href="https://youtube.com/@takanashi_joe?si=KlN_Rvcu5_dDO6fb" target="_blank">
     <img src="https://youtube.com/@takanashi_joe?si=7gyNNxRYZf082iDQ" alt="YouTube" />
   </a>
