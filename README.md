@@ -59,7 +59,7 @@
 
 ---
 
-<h3>✨ Student & Aspiring Software Engineer from Indonesia ✨</h3>
+<h3>## 🌐 My Social Accounts</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/novaljoee?igsh=MXJsOWF0Z3MzZGQ5Nw==" target="_blank">
