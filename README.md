@@ -9,8 +9,8 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  👋 Hai! Saya Noval, seorang pelajar dari Indonesia yang sangat tertarik dengan dunia teknologi. 
-  Saat ini fokus utama saya adalah mendalami <b>Web Development</b> untuk membangun aplikasi web yang interaktif dan responsif.
+  👋 Hi! I'm Noval, a student from Indonesia who is highly passionate about technology. 
+  Currently, my main focus is diving deep into <b>Web Development</b> to build interactive and responsive web applications.
 </p>
 
 <table align="center" width="100%">
@@ -34,6 +34,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,git&theme=dark" alt="My Skills" />
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Noval-Joeliawan/Noval-Joeliawan/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </p>
 
 ---
