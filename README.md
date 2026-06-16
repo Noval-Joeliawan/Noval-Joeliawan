@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Noval+Joeliawan;Software+Engineering" alt="Typing SVG" />
 </h1>
 
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -62,6 +60,7 @@
 ---
 
 <h3>✨ Student & Aspiring Software Engineer from Indonesia ✨</h3>
+
 <p align="center">
   <a href="https://www.instagram.com/novaljoee?igsh=MXJsOWF0Z3MzZGQ5Nw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
@@ -70,7 +69,8 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://youtube.com/@takanashi_joe?si=KlN_Rvcu5_dDO6fb" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=plastic&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
 </div>
