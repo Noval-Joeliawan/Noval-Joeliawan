@@ -59,18 +59,18 @@
 
 ---
 
-<h3>🌐 My Social Accounts</h3>
+## 🌐 My Social Accounts
 
 <p align="center">
   <a href="https://www.instagram.com/joeliawan_?igsh=MXJsOWF0Z3MzZGQ5Nw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-<a href="https://www.tiktok.com/@novjoe_" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://youtube.com/@takanashi_joe" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
+  <a href="https://www.tiktok.com/@novjoe_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://youtube.com/@takanashi_joe" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 </div>
