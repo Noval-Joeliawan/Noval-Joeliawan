@@ -38,11 +38,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noval-Joeliawan&theme=tokyonight&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
